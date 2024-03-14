@@ -1,0 +1,29 @@
+.article__title {
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.article__text {
+  font-size: 20px;
+}
+
+.article__text:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.article__img-wrapper:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.article__img {
+  margin: 0 auto;
+}
+
+.article__img-figcaption {
+  color: #5e5e5e;
+  padding: 15px 30px;
+  border-right: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  border-left: 1px solid #000000;
+}

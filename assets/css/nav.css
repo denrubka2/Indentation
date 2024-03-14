@@ -1,0 +1,10 @@
+.nav__list {
+  padding-left: 24px;
+  list-style-type: decimal;
+}
+
+.nav__list-item {
+  color: #02535f;
+  text-decoration: underline #000000;
+  text-decoration-skip-ink: none;
+}
