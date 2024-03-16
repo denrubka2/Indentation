@@ -79,3 +79,7 @@ iframe {
   padding: 0 30px;
   margin: 0 auto;
 }
+
+.container__hero {
+  padding-bottom: 25px;
+}
